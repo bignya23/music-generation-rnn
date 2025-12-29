@@ -3,6 +3,7 @@
 Generate original Irish folk music using deep learning! This project implements a character-level Recurrent Neural Network (LSTM) that learns patterns from thousands of songs in ABC notation and creates entirely new musical compositions.
 
 ## Overview
+
 This project demonstrates how sequence models can learn the structure of music and generate creative outputs. By training on a dataset of Irish folk songs, the model learns:
 
 - Musical patterns and structures
@@ -140,4 +141,15 @@ By completing this project, you will:
 - Experience creative applications of AI in music
 - Gain hands-on experience with PyTorch/TensorFlow
 
----
+## Contributing
+
+Contributions are welcome! Feel free to:
+
+- Open issues for bugs or feature requests
+- Submit pull requests to improve the code
+- Share your generated music compositions
+- Suggest improvements to the model architecture
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
